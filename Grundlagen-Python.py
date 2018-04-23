@@ -19,3 +19,6 @@ if (wer == "ich"):
     print("Hallo du")
 else:
     print ("Hallo", wer)
+
+lieblingszahl = input("Was ist deine Lieblingszahl? ")
+print("Super, ich mag die Zahl " , lieblingszahl)
