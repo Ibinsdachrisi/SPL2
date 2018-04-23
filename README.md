@@ -15,4 +15,3 @@
 * git comit -m "commit message"
 * git pull (um Änderungen vom den Server zu holen)
 * git push (um Änderungrn auf dem Server zu laden)
-*
